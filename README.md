@@ -12,7 +12,7 @@ Mentor: Neela Santhosh Kumar
 
 ##
 
-### Project Overview: **Throw Your Thought**
+### Project Name: **Throw Your Thought**
  
    This project is designed to create an interactive platform where users can both share and explore ideas. It provides a simple and engaging interface for writing, reading, and discovering blogs and articles.
 
