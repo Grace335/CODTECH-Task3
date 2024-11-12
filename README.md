@@ -1,4 +1,16 @@
+Name: Gudala Lilly Grace
 
+Company: CODTECH IT SOLUTION
+
+ID: CT12DS2465
+
+Domain: WEB DEVELOPMENT
+
+Duration: SEPTEMBER 20th,2024 to NOVEMBER 20th,2024
+
+Mentor: Neela Santhosh Kumar 
+
+##
 
 ### Project Overview: **Throw Your Thought**
 
