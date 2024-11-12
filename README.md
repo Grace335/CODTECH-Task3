@@ -36,3 +36,6 @@ Mentor: Neela Santhosh Kumar
 ### Sample Pictures:
 
 ![Screenshot 2024-11-12 202714](https://github.com/user-attachments/assets/a2b3c48d-c53f-42fb-9b18-1041598147c6)
+
+![Screenshot 2024-11-12 222002](https://github.com/user-attachments/assets/c1dcadf5-93c1-449a-a731-7f3906fcf004)
+
